@@ -1,0 +1,11 @@
+struttura dati:
+
+una struttura dati è un'entità usata per organizzare un insieme di dati all'interno della memoria del computer, ed eventualmente per memorizzarli in una memoria di massa.
+La struttura dati è un metodo di organizzazione dati, quindi prescinde da ciò che è effettivamente contenuto.
+
+Le strutture dati sono di tipo statiche o dinamiche:
+-statiche, numero fisso di elementi(dim vettore [100] as integer)
+-dinamiche, numero variabile di elementi(lista = [1,2,3,'pippo']
+
+-Albero
+-Grafo
